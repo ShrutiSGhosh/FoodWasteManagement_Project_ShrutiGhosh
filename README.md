@@ -121,7 +121,6 @@ Shruti Sumadhur Ghosh
 
 📜 License
 
-(Optional – for portfolio visibility)
 This project is licensed under the MIT License – feel free to use, share, and modify with attribution.
 
 
