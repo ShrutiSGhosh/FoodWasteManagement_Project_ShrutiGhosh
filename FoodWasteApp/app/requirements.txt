@@ -4,4 +4,3 @@ numpy
 matplotlib
 altair
 plotly
-sqlite3-binary
