@@ -1,3 +1,10 @@
+## 🚀 Live App
+
+You can try the interactive Streamlit app here:  
+👉 [Food Waste Management Dashboard](https://foodwastemanagementapp.streamlit.app/)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://foodwastemanagementapp.streamlit.app/)
+
 # FoodWasteManagement_Project_ShrutiSumadhurGhosh
 End-to-end Food Waste Management Data Analytics project by Shruti Sumadhur Ghosh.  Includes: - SQL-powered analysis (15+ queries with insights)  - Streamlit application for food donation management (CRUD operations + filters)  - analysis &amp; dashboards  - Final project report (PDF)  - Video demo (7+ min)  Technologies: Python, SQL, Streamlit, Pandas
 # 🍲 Food Waste Management – Data Analytics Project
